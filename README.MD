@@ -63,7 +63,7 @@ The Prescription Ordering System API simplifies the process of ordering prescrip
 
 ## Contact Information
 
-For inquiries or support, please contact our support team at support@example.com.
+For inquiries or support, please contact our support team at ochiengeugene008@gmail.com
 
 ## Disclaimer
 
